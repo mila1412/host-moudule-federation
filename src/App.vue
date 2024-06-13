@@ -1,6 +1,7 @@
 <template>
   <div>
     <Content />
+    <Content />
     <Button />
     <Button />
   </div>
