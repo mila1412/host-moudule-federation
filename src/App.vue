@@ -2,6 +2,7 @@
   <div>
     <Content />
     <Button />
+    <Button />
   </div>
 </template>
 
