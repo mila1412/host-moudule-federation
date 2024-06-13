@@ -9,7 +9,6 @@ module.exports = (env = {}) => ({
   devtool: 'source-map',
   optimization: {
     minimize: false,
-    splitChunks: false,
   },
   target: 'web',
   entry: path.resolve(__dirname, './src/index.js'),
